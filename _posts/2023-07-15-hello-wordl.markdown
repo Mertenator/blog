@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello world"
-date:   2023-07-16 17:42:27 +0300
+date:   2023-07-15 17:42:27 +0300
 categories: meta
 ---
 
