@@ -21,9 +21,9 @@
 title: Kulta-aika on ohi
 email: merten.remove@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Kulta-aika on ohi 
-  puiden alla varjossa makoilin
-  ajattelin; kuinka kaunista
+  Kulta-aika on ohi /
+  puiden alla varjossa makoilin /
+  ajattelin; kuinka kaunista /
   miksei se kiinnosta?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
